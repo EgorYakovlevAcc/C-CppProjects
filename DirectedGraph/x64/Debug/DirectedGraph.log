@@ -1,0 +1,21 @@
+﻿  DirectedGraph.cpp
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(12): error C2143: синтаксическая ошибка: отсутствие "]" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(12): error C2059: синтаксическая ошибка: ]
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(14): error C2143: синтаксическая ошибка: отсутствие "]" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(14): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(14): error C2059: синтаксическая ошибка: ]
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(14): error C2059: синтаксическая ошибка: )
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(16): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(16): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(31): error C2143: синтаксическая ошибка: отсутствие "]" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(31): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(31): error C2059: синтаксическая ошибка: ]
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(31): error C2059: синтаксическая ошибка: )
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(32): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(32): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(50): error C2143: синтаксическая ошибка: отсутствие "]" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(50): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(50): error C2059: синтаксическая ошибка: ]
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(50): error C2059: синтаксическая ошибка: )
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(51): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\егор яковлев\source\repos\directedgraph\directedgraph.cpp(51): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
